@@ -1,5 +1,5 @@
 {
-    "name": "pragmarx/countries",
+    "name": "pixelplant/countries",
 
     "description": "PHP Countries and Currencies",
 
@@ -23,6 +23,13 @@
             "name": "Antonio Carlos Ribeiro",
             "email": "acr@antoniocarlosribeiro.com",
             "role": "Creator"
+        }
+    ],
+	
+	"repositories":[
+        {
+            "type": "vcs",
+            "url": "https://github.com/pixelplant/coollection.git"
         }
     ],
 
